@@ -1,3 +1,7 @@
+# This program creates a dictionary with a basic encryption key for Upper and Lower alpha characters.
+# It then inputs a txt file, encrypts using the dictionary, and outputs the encrypted text in a separate text file.
+
+
 def main():
     codes = {
         "a": "#",
